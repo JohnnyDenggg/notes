@@ -51,6 +51,3 @@
 5. 中性灰，选择叠加模式
 6. 高低频：高频=高斯模糊（5-6px）、低频下图参数
 
-![image-20200904110237074](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20200904110237074.png)
-
-![image-20200903101112877](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\image-20200903101112877.png)
